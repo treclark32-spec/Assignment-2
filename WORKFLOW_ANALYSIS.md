@@ -21,7 +21,7 @@ It sets up everything GitHub Actions needs to run the workflow.
 
 ## 5. Why is automated deployment better than manual deployment?
 
-It makes deployment easier and helps prevent mistakes because GitHub does most of the work automatically.
+It makes deployment easier and helps prevent mistakes because GitHub does most of the work automatically.It also checks the website before it is deployed.
 
 ## 6. What happens if you push to a different branch instead of `main`?
 
