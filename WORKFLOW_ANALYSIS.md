@@ -17,7 +17,7 @@ Checkout code gets the files from the repository so GitHub Actions can use them.
 
 ## 4. What is the purpose of the environment configuration?
 
-It sets up everything GitHub Actions needs to run the workflow.
+The environment configuration prepares GitHub pages to be deployed. It sets up everything GitHub Actions needs to run the workflow. Like the correct settings and permissions.
 
 ## 5. Why is automated deployment better than manual deployment?
 
